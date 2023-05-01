@@ -1,9 +1,12 @@
 {
+    "workbench.colorTheme": "Default High Contrast",
+    "terminal.integrated.enableMultiLinePasteWarning": true,
+    "jupyter.askForKernelRestart": false,
+    "window.zoomLevel": -1,
     "[python]": {
         "editor.formatOnType": true,
         "editor.defaultFormatter": "ms-python.black-formatter"
     },
-    "workbench.colorTheme": "Default High Contrast",
     "isort.check": true,
     "isort.showNotifications": "always",
     "black-formatter.showNotifications": "always",
